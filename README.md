@@ -1,7 +1,6 @@
 # HEART__DISEASE_detection [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heartdiseasedetection-byniharika.streamlit.app)
 #Heart Disease Detection using Machine Learning
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heartdiseasedetection-byniharika.streamlit.app)
 This project applies machine learning techniques to predict the likelihood of heart disease based on patient health data. It leverages classification algorithms to analyze key medical attributes (such as age, cholesterol levels, blood pressure, and more) and provides an interactive interface for prediction.
 
 #🔑 Features
