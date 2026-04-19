@@ -1,4 +1,4 @@
-# HEART__DISEASE_detection
+# HEART__DISEASE_detection [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heartdiseasedetection-byniharika.streamlit.app)
 #Heart Disease Detection using Machine Learning
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://heartdiseasedetection-byniharika.streamlit.app)
